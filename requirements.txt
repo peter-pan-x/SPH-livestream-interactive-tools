@@ -1,0 +1,13 @@
+# 微信视频号直播间自动化 - 依赖列表
+
+# Appium Python客户端
+Appium-Python-Client>=3.0.0
+
+# Selenium (Appium依赖)
+selenium>=4.15.0
+
+# YAML配置解析
+PyYAML>=6.0.1
+
+# HTTP请求 (用于检查Appium服务器状态)
+requests>=2.28.0

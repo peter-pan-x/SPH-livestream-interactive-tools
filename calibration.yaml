@@ -1,0 +1,14 @@
+calibrated: true
+comment_input:
+  x: 1616
+  x_ratio: 1.4908
+  y: 18386
+  y_ratio: 7.6227
+like_button:
+  x: 7955
+  x_ratio: 7.3386
+  y: 18244
+  y_ratio: 7.5638
+screen_size:
+  height: 2412
+  width: 1084

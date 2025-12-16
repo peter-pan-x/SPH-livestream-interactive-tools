@@ -1,0 +1,18 @@
+setup-env.bat
+一键检查和安装所有依赖和环境
+
+start-appium.bat
+启动 Appium 服务器
+
+calibrate.bat
+坐标校准器 - 换手机时运行一次
+校准后数据保存到 calibration.json
+
+run.bat
+运行自动化程序
+
+使用流程:
+1. setup-env.bat (首次安装)
+2. start-appium.bat (启动服务)
+3. calibrate.bat (首次/换手机时运行)
+4. run.bat (日常使用)
