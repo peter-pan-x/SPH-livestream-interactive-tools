@@ -1,4 +1,4 @@
-# 微信视频号直播间自动化程序
+# 视频号直播间自动化程序
 
 基于 Appium 的 RPA 自动化工具，用于在微信视频号直播间自动执行点赞和评论操作。
 
@@ -11,7 +11,6 @@
 ## 环境要求
 
 - Python 3.8+
-- Appium Server 2.x
 - Android 设备（已开启 USB 调试）
 - ADB 工具
 
@@ -106,3 +105,4 @@ runtime:
 ## License
 
 MIT
+
